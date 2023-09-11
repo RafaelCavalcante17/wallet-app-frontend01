@@ -50,7 +50,7 @@ label {
   font-weight: 500;
 }
 
-a{
+a {
   font-size: 14px;
   font-weight: 700;
   text-decoration: underline;
@@ -67,6 +67,7 @@ button {
   border-color: #5936cd;
   border-width: 2px;
   border-style: solid;
+  cursor: pointer;
 }
 
 button.small {
